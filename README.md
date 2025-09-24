@@ -1,3 +1,8 @@
+# 📺 Linux Course on YouTube  
+🎥 [Watch the full course here](https://youtu.be/tdxQ0O1qu9U?list=PLJB9b1bbB85HR7xXgpuWTibPWTprBEVi0)
+
+---
+
 # Linux Notes (DevOps Journey)
 
 Welcome! This repo tracks my Linux learning journey with concise, hands-on notes. Each topic lives in its own folder with commands, examples, and short explanations. PRs/issues welcome.
